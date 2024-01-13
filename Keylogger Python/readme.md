@@ -1,5 +1,5 @@
 # Keylogger in python
-## This is a basic project in which i have made a keylogger using python . A keylogger is used as a spyware tool by cyber criminals it keeps track of all the inputs given by the user IN A DIFFRENT FILE once the script is run . This can be used by the bad actors for malicious purposes . in the present day and age most of the OS do have a secure enough enviorment so that they cannot br exploited by keyloggers as keyloggers are often detected by the OS. I have made this mini prooject to learn the use of python in cyber security and as i am intrestred in python and cyber security both. 
+## This is a basic project in which i have made a keylogger using python . A keylogger is used as a spyware tool by cyber criminals it keeps track of all the inputs given by the user IN A DIFFRENT FILE once the script is run . This can be used by the bad actors for malicious purposes . in the present day and age most of the OS do have a secure enough environment so that they cannot br exploited by keyloggers as keyloggers are often detected by the OS. I have made this mini prooject to learn the use of python in cyber security and as i am intrestred in python and cyber security both
 
 # To run this you would need to install pynput
 ## You can use pip to install pynput
